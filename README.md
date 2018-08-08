@@ -78,6 +78,17 @@ See also: http://riemenschneider.hayko.at/vision/dataset/index.php?filter=+synth
 
 <!-- The div id is bib citekey from google scholar, use div id makes it easier to reference a work in this document. -->
 
+### 2018
+
+(Total=1)
+
+<div id="borrego2018generic"></div>
+
+- Domain Randomization Framework for Gazebo Simulator
+	<span class="octicon octicon-mark-github"></span>
+	([:octocat:code](https://github.com/jsbruglie/gap))
+	([pdf](http://vislab.isr.ist.utl.pt/wp-content/uploads/2018/04/jborrego-icarsc2018.pdf))
+
 ### 2017
 
 (Total=11)
